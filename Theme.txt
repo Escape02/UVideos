@@ -3,7 +3,7 @@
 		"strID": "0",
 		"strThumbnailURL": "https://raw.githubusercontent.com/Escape02/UVideos/master/videotransition/0499C962-9CDE-4B0C-A4DC-3F09C5A8D12E.png",
 		"strThumbnailName": "致青春",
-		"strMaterialURL": "https://github.com/Escape02/UVideos/raw/master/videotransition/0499C962-9CDE-4B0C-A4DC-3F09C5A8D12E.videotransition",
+		"strMaterialURL": "https://github.com/Escape02/UVideos/raw/master/videotransition/0499C962-9CDE-4B0C-A4DC-3F09C5A8D12E.theme",
 		"licenseURL": "https://ks3-cn-beijing.ksyun.com/ksy.vcloud.sdk/KMC/KMCShortVideo/resource/theme/0390C92F-0E69-4A7F-AC2A-D3DABF31066B.lic",
 		"strName": "0390C92F-0E69-4A7F-AC2A-D3DABF31066B.1.theme",
 		"strType": "0"
